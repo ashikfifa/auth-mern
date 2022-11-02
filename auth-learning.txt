@@ -1,0 +1,3 @@
+1. create erb server
+2. create api
+3. postman equest
